@@ -1,0 +1,65 @@
+2025-11-08 19:42:58,919 - INFO - Парсер BrainyQuote инициализирован
+2025-11-08 19:42:58,919 - INFO - Проверяем robots.txt: https://www.brainyquote.com/robots.txt
+2025-11-08 19:42:59,450 - INFO - Robots.txt разрешает парсинг
+2025-11-08 19:42:59,450 - INFO - 🚀 Начало парсинга BrainyQuote: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:42:59,507 - INFO - 📄 Страница 1: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:42:59,609 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/inspirational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:42:59,611 - WARNING - Попытка 1 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes. Повтор через 2 сек...
+2025-11-08 19:43:01,653 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/inspirational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:43:01,653 - WARNING - Попытка 2 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes. Повтор через 2 сек...
+2025-11-08 19:43:03,700 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/inspirational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:43:03,700 - ERROR - Все 3 попытки завершились ошибкой: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:43:03,700 - ERROR - ❌ Критическая ошибка на странице https://www.brainyquote.com/topics/inspirational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/inspirational-quotes
+2025-11-08 19:43:03,700 - INFO - 🎉 Парсинг завершен! Обработано 0 страниц, собрано 0 цитат
+2025-11-08 19:43:06,701 - INFO - Парсер BrainyQuote инициализирован
+2025-11-08 19:43:06,705 - INFO - Проверяем robots.txt: https://www.brainyquote.com/robots.txt
+2025-11-08 19:43:07,090 - INFO - Robots.txt разрешает парсинг
+2025-11-08 19:43:07,090 - INFO - 🚀 Начало парсинга BrainyQuote: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:07,091 - INFO - 📄 Страница 1: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:07,127 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/motivational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:07,127 - WARNING - Попытка 1 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes. Повтор через 2 сек...
+2025-11-08 19:43:09,183 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/motivational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:09,183 - WARNING - Попытка 2 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes. Повтор через 2 сек...
+2025-11-08 19:43:11,230 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/motivational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:11,230 - ERROR - Все 3 попытки завершились ошибкой: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:11,230 - ERROR - ❌ Критическая ошибка на странице https://www.brainyquote.com/topics/motivational-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/motivational-quotes
+2025-11-08 19:43:11,230 - INFO - 🎉 Парсинг завершен! Обработано 0 страниц, собрано 0 цитат
+2025-11-08 19:43:14,232 - INFO - Парсер BrainyQuote инициализирован
+2025-11-08 19:43:14,234 - INFO - Проверяем robots.txt: https://www.brainyquote.com/robots.txt
+2025-11-08 19:43:14,609 - INFO - Robots.txt разрешает парсинг
+2025-11-08 19:43:14,609 - INFO - 🚀 Начало парсинга BrainyQuote: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:14,609 - INFO - 📄 Страница 1: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:14,649 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/life-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:14,650 - WARNING - Попытка 1 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes. Повтор через 2 сек...
+2025-11-08 19:43:16,694 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/life-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:16,694 - WARNING - Попытка 2 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes. Повтор через 2 сек...
+2025-11-08 19:43:18,730 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/life-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:18,730 - ERROR - Все 3 попытки завершились ошибкой: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:18,731 - ERROR - ❌ Критическая ошибка на странице https://www.brainyquote.com/topics/life-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/life-quotes
+2025-11-08 19:43:18,731 - INFO - 🎉 Парсинг завершен! Обработано 0 страниц, собрано 0 цитат
+2025-11-08 19:43:21,732 - INFO - Парсер BrainyQuote инициализирован
+2025-11-08 19:43:21,735 - INFO - Проверяем robots.txt: https://www.brainyquote.com/robots.txt
+2025-11-08 19:43:22,113 - INFO - Robots.txt разрешает парсинг
+2025-11-08 19:43:22,113 - INFO - 🚀 Начало парсинга BrainyQuote: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:22,113 - INFO - 📄 Страница 1: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:22,146 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/success-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:22,146 - WARNING - Попытка 1 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes. Повтор через 2 сек...
+2025-11-08 19:43:24,184 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/success-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:24,185 - WARNING - Попытка 2 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes. Повтор через 2 сек...
+2025-11-08 19:43:26,237 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/success-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:26,238 - ERROR - Все 3 попытки завершились ошибкой: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:26,238 - ERROR - ❌ Критическая ошибка на странице https://www.brainyquote.com/topics/success-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/success-quotes
+2025-11-08 19:43:26,238 - INFO - 🎉 Парсинг завершен! Обработано 0 страниц, собрано 0 цитат
+2025-11-08 19:43:29,239 - INFO - Парсер BrainyQuote инициализирован
+2025-11-08 19:43:29,242 - INFO - Проверяем robots.txt: https://www.brainyquote.com/robots.txt
+2025-11-08 19:43:29,621 - INFO - Robots.txt разрешает парсинг
+2025-11-08 19:43:29,621 - INFO - 🚀 Начало парсинга BrainyQuote: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:29,622 - INFO - 📄 Страница 1: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:29,659 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/wisdom-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:29,659 - WARNING - Попытка 1 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes. Повтор через 2 сек...
+2025-11-08 19:43:31,707 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/wisdom-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:31,708 - WARNING - Попытка 2 failed: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes. Повтор через 2 сек...
+2025-11-08 19:43:33,741 - ERROR - Ошибка загрузки https://www.brainyquote.com/topics/wisdom-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:33,741 - ERROR - Все 3 попытки завершились ошибкой: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:33,741 - ERROR - ❌ Критическая ошибка на странице https://www.brainyquote.com/topics/wisdom-quotes: 403 Client Error: Forbidden for url: https://www.brainyquote.com/topics/wisdom-quotes
+2025-11-08 19:43:33,741 - INFO - 🎉 Парсинг завершен! Обработано 0 страниц, собрано 0 цитат
